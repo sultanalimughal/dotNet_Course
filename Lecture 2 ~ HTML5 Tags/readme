@@ -1,0 +1,47 @@
+<!-- FILEPATH: /D:/dotNet_Course/Lecture 2 ~ HTML5 Tags/readme -->
+
+#Assignment 
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Assignment No 01</title>
+</head>
+<body>
+    <h1>Assignment No 01</h1>
+
+    <h2>Implement 120 tags</h2>
+    <p>Implement 120 HTML tags in your webpage.</p>
+
+    <h2>What is CDN - content delivery network</h2>
+    <p>A content delivery network (CDN) is a distributed network of servers that delivers web content to users based on their geographic location, ensuring faster and more reliable delivery.</p>
+
+    <h2>What is iFrame</h2>
+    <p>An iframe is an HTML element that allows you to embed another HTML document within the current document.</p>
+
+    <h2>Embed google frame in HTML</h2>
+    <p>To embed a Google Map in HTML, you can use the Google Maps Embed API or simply use an iframe with the source set to the Google Maps URL.</p>
+
+    <h2>Embed youtube video in html</h2>
+    <p>To embed a YouTube video in HTML, you can use the YouTube embed code provided by YouTube. Simply copy the embed code and paste it into your HTML document.</p>
+
+    <h2>Embed facebook page in html</h2>
+    <p>To embed a Facebook page in HTML, you can use the Facebook Page Plugin. You need to generate the code from the Facebook Developer website and then paste it into your HTML document.</p>
+
+    <h2>Embed soundcloud in html</h2>
+    <p>To embed a SoundCloud audio player in HTML, you can use the SoundCloud embed code provided by SoundCloud. Simply copy the embed code and paste it into your HTML document.</p>
+
+    <h2>Embed whatsapp widget in html</h2>
+    <p>To embed a WhatsApp widget in HTML, you can use the WhatsApp Click to Chat feature. You need to generate the code with the desired phone number and then paste it into your HTML document.</p>
+
+    <h2>Embed tawk.to chat (website)</h2>
+    <p>To embed a tawk.to chat widget in HTML, you can use the tawk.to embed code provided by tawk.to. Simply copy the embed code and paste it into your HTML document.</p>
+
+    <h2>Video from PC using html tags</h2>
+    <p>To display a video from your PC using HTML tags, you can use the <video> element and specify the source file using the src attribute.</p>
+
+    <h2>Audio from PC using html tags</h2>
+    <p>To play audio from your PC using HTML tags, you can use the <audio> element and specify the source file using the src attribute.</p>
+
+</body>
+</html>
