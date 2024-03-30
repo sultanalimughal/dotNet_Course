@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Forms</title>
+</head>
+<body>
+    <form method="post">
+        <label>
+            Student Name
+        </label>
+        <input name="StdName" type="text" placeholder="enter your student name">
+        <br>
+        <label>
+            matric marks
+        </label>
+        <input type="number" min="1" max="1100" name="Marks">
+        <br>
+        <label>
+            DOB
+        </label>
+        <input type="date" name="dob">
+        <br>
+        <label>
+            resume
+        </label>
+        <input type="file" name="resume">
+        <br>
+        <label>address</label>
+        <textarea name="address" rows="5"></textarea>
+        <br>
+        <label>city</label>
+        <select name="city">
+            <option value="rwp">
+                rwp
+            </option>
+            <option value="isb">
+                isb
+            </option>
+        </select>
+        <br>
+        <label>Gender</label>
+        <input name="gender" type="radio">
+        male
+        <input name="gender" type="radio">
+        female
+        <br>
+        <label>is Hafiz?</label>
+        <input type="checkbox">
+        <br>
+        <label>
+            email 
+        </label>
+        <input type="email" name="email">
+        <br>
+        <label>password</label>
+        <input type="password" name="password" required>
+        <br>
+        <label>range select</label>
+        <input type="range" min="10" max="1000">
+        <button  type="submit">submit</button>
+    </form>
+</body>
+</html>
