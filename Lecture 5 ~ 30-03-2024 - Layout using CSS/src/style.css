@@ -1,24 +1,30 @@
 .container{
-    display: grid;
+    /* display: grid; */
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
     margin-left: 30px;
     width: 100%;
     height: 100%;
-    grid-template-rows: 50% 50%;
+    flex-basis: 5px;
+    /* grid-template-rows: 50% 50%;
     grid-template-columns: 20% 20% 20% 20% 20%;
     row-gap: 50px;
     column-gap: 30px;
-    margin-top: 30px;
+    margin-top: 30px; */
 }
 /* ---------------- LAYOUT -----------------------*/
 .layout{
     text-align: center;
+    padding: 20px 8px;
+    flex: 18%;
 }
 .up{
-    width: 200px;
+    /* width: 200px; */
     height: 333px;
 }
 .down{
-    width: 200px;
+    /* width: 200px; */
     height: 485px;
 }
 /* ---------------- BOX - 1 -----------------------*/
@@ -573,4 +579,41 @@
     height: 37px;
 }
 
+
+@media screen and (max-width: 992px) {
+
+    .layout{
+        text-align: center;
+        flex: 100%;
+        margin-bottom: 10px;
+    }
+
+    /* .down{
+        width: 100%;
+        height: 485px;
+        margin-bottom: 10px;
+    }
+    .up{
+        width: 100%;
+        height: 333px;
+        margin-bottom: 10px;
+    } */
+  }
+
+  @media screen and ((min-width :993px) and (max-width: 1100px)) {
+
+    .layout{
+        text-align: center;
+        flex: 48%;
+        margin-bottom: 10px;
+    }
+  }
+  @media screen and ((min-width :1100px) and (max-width: 1300px)) {
+
+    .layout{
+        text-align: center;
+        flex: 30%;
+        margin-bottom: 10px;
+    }
+  }
 

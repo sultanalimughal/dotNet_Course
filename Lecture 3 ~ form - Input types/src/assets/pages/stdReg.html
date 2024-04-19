@@ -7,38 +7,32 @@
 
 <body>
   <h2>Student Registration Form Using Table in HTML</h3>
-
-
     <table align="center" cellpadding="10">
-
       <tr>
         <td>First Name</td>
-        <td><input type="text" name="FirstName" maxlength="50" placeholder="First Name" />
+        <td><input type="text" name="FirstName" maxlength="50" placeholder="First Name" pattern="[A-Za-z]" />
           (Max 50 Characters Allowed)
         </td>
       </tr>
-
       <tr>
         <td>Last Name</td>
-        <td><input type="text" name="LastName" maxlength="50" placeholder="Last Name" />
+        <td><input type="text" name="LastName" maxlength="50" placeholder="Last Name" pattern="[A-Za-z]" />
           (Max 50 Characters Allowed)
         </td>
       </tr>
-
       <tr>
         <td>Email ID</td>
         <td><input type="email" name="EmailID" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
             placeholder="ewxadmin@gmail.com" /></td>
       </tr>
-
       <tr>
         <td>Mobile Number</td>
         <td>
-          <input type="text" name="MobileNumber" maxlength="10" placeholder="030xxxxxx" />
-          (10 Digits Allowed)
+          <input type="text" name="MobileNumber" maxlength="10" placeholder="03xx-xxxxxxx"
+            pattern="[0-9]{4}-[0-9]{7}" />
+          (11 Digits Allowed)
         </td>
       </tr>
-
       <tr>
         <td>Gender</td>
         <td>
@@ -48,7 +42,6 @@
           Female
         </td>
       </tr>
-
       <tr>
         <td>Date of Birth(DOB)</td>
         <td>
@@ -146,38 +139,32 @@
           </select>
         </td>
       </tr>
-
       <tr>
         <td>Address<br /><br /><br /></td>
-        <td><textarea name="Address" rows="10" cols="50"></textarea></td>
+        <td><textarea name="Address" rows="10" cols="50" ></textarea></td>
       </tr>
-
       <tr>
         <td>City</td>
-        <td><input type="text" name="City" maxlength="50" placeholder="Islamabad" />
+        <td><input type="text" name="City" maxlength="50" placeholder="Islamabad" pattern="[A-Za-z]{25}"/>
           (Max 50 Characters Allowed)
         </td>
       </tr>
-
       <tr>
         <td>Pin Code</td>
-        <td><input type="Number" name="PinCode" maxlength="6" placeholder="560068" />
+        <td><input type="Number" name="PinCode" maxlength="6" placeholder="560068" pattern="\d{6}"/>
           (Max 6 Numbers Allowed)
         </td>
       </tr>
-
       <tr>
         <td>State</td>
-        <td><input type="text" name="State" maxlength="50" placeholder="Commercial" />
+        <td><input type="text" name="State" maxlength="50" placeholder="Commercial" pattern="[A-Za-z]{25}"/>
           (Max 50 Characters Allowed)
         </td>
       </tr>
-
       <tr>
         <td>Country</td>
-        <td><input type="text" name="Country" placeholder="Pakistan" /></td>
+        <td><input type="text" name="Country" placeholder="Pakistan" pattern="[A-Za-z]{20}"/></td>
       </tr>
-
       <tr>
         <td>Hobbies <br /><br /><br /></td>
         <td>
@@ -196,7 +183,6 @@
           (Max 50 Characters Allowed)
         </td>
       </tr>
-
       <tr>
         <td>Qualification <br /><br /><br /></td>
         <td>
@@ -213,7 +199,6 @@
           Phd
         </td>
       </tr>
-
       <tr>
         <td>Courses<br />Applied For</td>
         <td>
@@ -235,7 +220,6 @@
           MA(Master of Arts)<br>
         </td>
       </tr>
-
       <tr>
         <td colspan="2" align="center">
           <input type="submit" value="Submit">
