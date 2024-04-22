@@ -1,0 +1,65 @@
+.container{
+    text-align: center;
+}
+/* ---------------- LAYOUT ONE---------------------*/
+.layoutOne{
+    display: grid;
+    grid-template-columns: 30% 67%;
+    grid-template-rows: 20%, 20%, 20%, 20%, 20%, 20%;
+    column-gap: 3%;
+    row-gap: 3%;
+}
+.zero{
+
+    grid-column: 1/3;
+    background-color: rgb(159,214,233);
+    height: 100px;
+}
+.one{
+
+    grid-row: 2/6;
+    height: 550px;
+}
+.fiveBox{
+    display: flex;
+    flex-direction: column;
+    row-gap: 12px;
+    height: auto;
+}
+.fiveitem{
+    background-color: rgba(256,237,82,255);
+    height: 100px;
+}
+.two{
+
+    grid-area: 2/2/5/3;
+    background-color: rgba(239,159,198,255);
+    height: 63%;
+}
+.three{
+
+    grid-area: 4/2/6/2;
+    background-color: rgba(239,159,198,255);
+}
+.four{
+
+    grid-column: 1/3;
+    background-color: rgba(156,208,126,255);
+    height: 100px;
+}
+
+@media screen and (max-width: 675px) {
+
+    .layoutOne{
+        display: flex;
+        flex-direction: column;
+        row-gap: 10px;
+        text-align: center;
+        flex: 100%;
+        margin-bottom: 10px;
+    }
+    .two, .three{
+
+        height: 200px;
+    }
+}
