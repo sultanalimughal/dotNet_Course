@@ -1,0 +1,37 @@
+.bg-skyblue {
+    background-color: #6fc4e3;
+  }
+
+  .bg-purpule {
+    background-color: #9566ac;
+  }
+
+  .bg-yellow {
+    background-color: yellow;
+    height: 200px;
+  }
+
+  .bg-green {
+    background-color: #78c581;
+  }
+
+  .bg-pink {
+    background-color: pink;
+  }
+
+  .bg-gray {
+    background-color: #a8a9ad;
+  }
+
+  .bg-drkGray {
+    background-color: #5f70b5;
+  }
+
+  .col {
+    height: 100px;
+  }
+
+  .box {
+    height: 300px;
+    background-color: #78c581;
+  }

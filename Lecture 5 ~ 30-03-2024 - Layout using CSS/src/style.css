@@ -37,7 +37,7 @@
 }
 .zero{
     grid-column: 1/3;
-    background-color: rgb(159,214,233)
+    background-color: #9fd6e9
 }
 .one{
     grid-row: 2/6;
