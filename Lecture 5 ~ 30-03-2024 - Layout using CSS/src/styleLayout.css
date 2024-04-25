@@ -10,13 +10,11 @@
     row-gap: 3%;
 }
 .zero{
-
     grid-column: 1/3;
     background-color: rgb(159,214,233);
     height: 100px;
 }
 .one{
-
     grid-row: 2/6;
     height: 550px;
 }
@@ -31,18 +29,15 @@
     height: 100px;
 }
 .two{
-
     grid-area: 2/2/5/3;
     background-color: rgba(239,159,198,255);
     height: 63%;
 }
 .three{
-
     grid-area: 4/2/6/2;
     background-color: rgba(239,159,198,255);
 }
 .four{
-
     grid-column: 1/3;
     background-color: rgba(156,208,126,255);
     height: 100px;
@@ -62,4 +57,63 @@
 
         height: 200px;
     }
+}
+/* ---------------- LAYOUT TWO---------------------*/
+.ba{  
+    grid-column: 1/3;
+    background-color: rgb(159,214,233);
+    height: 100px;
+}
+.bb{
+    grid-column: 1/2;
+    background-color: rgba(199,118,177,255);
+    height: 100px;
+}
+.bc{
+    grid-area: 2/2/4/4;
+    background-color: rgb(159,214,233);
+    height: 225px;
+}
+.bd{
+    grid-column: 1/2;
+    background-color: rgba(199,118,177,255);
+    height: 100px;
+}
+.be{
+    grid-column: 1/4;
+    height: 100px;
+}
+.sixa{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: 100px 100px;
+    row-gap: 15px;
+    column-gap: 15px;
+}
+.sixb{
+    background-color: yellow;
+}
+.bf{
+    grid-column: 1/4;
+    height: 38px;
+    margin-top: 100px;
+    height: 100px;
+}
+.sixaa{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: 200px 200px;
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 10px;
+    column-gap: 10px;
+}
+.sixbb{
+    background-color: rgba(148,149,153,255);
+
+}
+.bg{
+    grid-column: 1/4;
+    background-color: rgba(111,196,227,255);
+    height: 100px;
+    margin-top: 290px;
 }
