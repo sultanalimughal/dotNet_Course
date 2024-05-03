@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\dotNet_Course\\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\\my.solution\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{88C3E879-FD68-4784-B0DA-62993B19D828}|persona\\persona.csproj|d:\\dotnet_course\\lecture 9 ~ 28-04-2024 - variable , datatype in c#\\my.solution\\persona\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C3E879-FD68-4784-B0DA-62993B19D828}|persona\\persona.csproj|solutionrelative:persona\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9FD68B7B-E980-4084-841C-9DFE1F0E2778}|assignmentStringMethod\\assignmentStringMethod.csproj|d:\\dotnet_course\\lecture 9 ~ 28-04-2024 - variable , datatype in c#\\my.solution\\assignmentstringmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FD68B7B-E980-4084-841C-9DFE1F0E2778}|assignmentStringMethod\\assignmentStringMethod.csproj|solutionrelative:assignmentstringmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -24,24 +28,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\dotNet_Course\\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\\my.solution\\assignmentStringMethod\\Program.cs",
-              "RelativeDocumentMoniker": "assignmentStringMethod\\Program.cs",
-              "ToolTip": "D:\\dotNet_Course\\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\\my.solution\\assignmentStringMethod\\Program.cs",
-              "RelativeToolTip": "assignmentStringMethod\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "DocumentMoniker": "D:\\dotNet_Course\\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\\my.solution\\persona\\Program.cs",
+              "RelativeDocumentMoniker": "persona\\Program.cs",
+              "ToolTip": "D:\\dotNet_Course\\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\\my.solution\\persona\\Program.cs",
+              "RelativeToolTip": "persona\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-03T09:04:18.084Z",
+              "WhenOpened": "2024-05-03T10:50:52.15Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\dotNet_Course\\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\\my.solution\\assignmentStringMethod\\Program.cs",
+              "RelativeDocumentMoniker": "assignmentStringMethod\\Program.cs",
+              "ToolTip": "D:\\dotNet_Course\\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\\my.solution\\assignmentStringMethod\\Program.cs",
+              "RelativeToolTip": "assignmentStringMethod\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:04:18.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\dotNet_Course\\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\\my.solution\\my.project\\Program.cs",
               "RelativeDocumentMoniker": "my.project\\Program.cs",
               "ToolTip": "D:\\dotNet_Course\\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\\my.solution\\my.project\\Program.cs",
               "RelativeToolTip": "my.project\\Program.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAAACsAAAApAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACgAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T10:37:56.564Z",
               "EditorCaption": ""

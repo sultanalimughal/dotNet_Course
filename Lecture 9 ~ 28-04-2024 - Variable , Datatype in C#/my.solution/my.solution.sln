@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "my.project", "my.project\my.project.csproj", "{6320181A-437B-4EA6-A039-23A8D6AAD22C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assignmentStringMethod", "assignmentStringMethod\assignmentStringMethod.csproj", "{9FD68B7B-E980-4084-841C-9DFE1F0E2778}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "assignmentStringMethod", "assignmentStringMethod\assignmentStringMethod.csproj", "{9FD68B7B-E980-4084-841C-9DFE1F0E2778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "persona", "persona\persona.csproj", "{88C3E879-FD68-4784-B0DA-62993B19D828}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9FD68B7B-E980-4084-841C-9DFE1F0E2778}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FD68B7B-E980-4084-841C-9DFE1F0E2778}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FD68B7B-E980-4084-841C-9DFE1F0E2778}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88C3E879-FD68-4784-B0DA-62993B19D828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88C3E879-FD68-4784-B0DA-62993B19D828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88C3E879-FD68-4784-B0DA-62993B19D828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88C3E879-FD68-4784-B0DA-62993B19D828}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,10 +1,10 @@
 ﻿// See https://aka.ms/new-console-template for more information
-	//Console.WriteLine("Hello, World!");
+	Console.WriteLine("Hello, World!");
 
 
-// Variable in C#
+// Variable in C# (Two Part)
+		// 1) Decleration 2) initialization 
 
-// 1) Decleration 2) initialization 
 
 
 //string myFriendName;
@@ -16,14 +16,14 @@
 //Console.WriteLine(myFriendName);
 
 
-	//Console.WriteLine("enter your friend name");
+	Console.WriteLine("enter your friend name");
 
-	//string myFriendName = Console.ReadLine();
+	string myFriendName = Console.ReadLine();
 
 
-	//Console.WriteLine("enter friend location");
+	Console.WriteLine("enter friend location");
 
-	//string country = Console.ReadLine(); 
+	string country = Console.ReadLine(); 
 
 //myFriendName = "Mark";
 
@@ -38,7 +38,7 @@
 
 
 //String interpolation 
-	//Console.WriteLine( $@"My Frind name is {myFriendName}");
-	//Console.WriteLine($@"He is from {country}");
-	//Console.WriteLine("He is software engineering");
-	//Console.WriteLine("He is 34 years old");
+	Console.WriteLine( $@"My Frind name is {myFriendName}");
+	Console.WriteLine($@"He is from {country}");
+	Console.WriteLine("He is software engineering");
+	Console.WriteLine("He is 34 years old");
