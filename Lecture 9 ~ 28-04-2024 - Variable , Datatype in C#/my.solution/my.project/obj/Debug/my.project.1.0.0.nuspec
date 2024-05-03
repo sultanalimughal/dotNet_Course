@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>my.project</id>
+    <version>1.0.0</version>
+    <authors>my.project</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="6d83dd15b7e296c9d9213c63a8f1cac35500d9d9" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.runtimeconfig.json" target="lib\net8.0\my.project.runtimeconfig.json" />
+    <file src="D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.dll" target="lib\net8.0\my.project.dll" />
+  </files>
+</package>

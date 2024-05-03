@@ -45,7 +45,7 @@
 
 @media screen and (max-width: 675px) {
 
-    .layoutOne{
+    .layoutOne {
         display: flex;
         flex-direction: column;
         row-gap: 10px;

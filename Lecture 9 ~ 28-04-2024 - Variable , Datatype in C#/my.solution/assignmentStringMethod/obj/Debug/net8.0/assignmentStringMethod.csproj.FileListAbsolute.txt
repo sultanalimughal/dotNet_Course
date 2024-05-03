@@ -1,0 +1,15 @@
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\assignmentStringMethod\bin\Debug\net8.0\assignmentStringMethod.exe
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\assignmentStringMethod\bin\Debug\net8.0\assignmentStringMethod.deps.json
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\assignmentStringMethod\bin\Debug\net8.0\assignmentStringMethod.runtimeconfig.json
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\assignmentStringMethod\bin\Debug\net8.0\assignmentStringMethod.dll
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\assignmentStringMethod\bin\Debug\net8.0\assignmentStringMethod.pdb
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\assignmentStringMethod\obj\Debug\net8.0\assignmentStringMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\assignmentStringMethod\obj\Debug\net8.0\assignmentStringMethod.AssemblyInfoInputs.cache
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\assignmentStringMethod\obj\Debug\net8.0\assignmentStringMethod.AssemblyInfo.cs
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\assignmentStringMethod\obj\Debug\net8.0\assignmentStringMethod.csproj.CoreCompileInputs.cache
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\assignmentStringMethod\obj\Debug\net8.0\assignmentStringMethod.sourcelink.json
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\assignmentStringMethod\obj\Debug\net8.0\assignmentStringMethod.dll
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\assignmentStringMethod\obj\Debug\net8.0\refint\assignmentStringMethod.dll
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\assignmentStringMethod\obj\Debug\net8.0\assignmentStringMethod.pdb
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\assignmentStringMethod\obj\Debug\net8.0\assignmentStringMethod.genruntimeconfig.cache
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\assignmentStringMethod\obj\Debug\net8.0\ref\assignmentStringMethod.dll
