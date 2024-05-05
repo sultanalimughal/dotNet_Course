@@ -16,11 +16,12 @@ string str = Console.ReadLine();
 int strlg = str.Length;
 Console.WriteLine("length is :" + strlg);
 
+
 //Concatenation
 Console.WriteLine("First String");
-string c = Console.ReadLine();
+string? c = Console.ReadLine();
 Console.WriteLine("Second String");
-string d = Console.ReadLine();
+string? d = Console.ReadLine();
 Console.WriteLine(c + d);
 
 //Interpolation

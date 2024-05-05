@@ -1,0 +1,15 @@
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\persona\bin\Debug\net8.0\persona.exe
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\persona\bin\Debug\net8.0\persona.deps.json
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\persona\bin\Debug\net8.0\persona.runtimeconfig.json
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\persona\bin\Debug\net8.0\persona.dll
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\persona\bin\Debug\net8.0\persona.pdb
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\persona\obj\Debug\net8.0\persona.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\persona\obj\Debug\net8.0\persona.AssemblyInfoInputs.cache
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\persona\obj\Debug\net8.0\persona.AssemblyInfo.cs
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\persona\obj\Debug\net8.0\persona.csproj.CoreCompileInputs.cache
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\persona\obj\Debug\net8.0\persona.sourcelink.json
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\persona\obj\Debug\net8.0\persona.dll
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\persona\obj\Debug\net8.0\refint\persona.dll
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\persona\obj\Debug\net8.0\persona.pdb
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\persona\obj\Debug\net8.0\persona.genruntimeconfig.cache
+D:\dotNet_Course\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\persona\obj\Debug\net8.0\ref\persona.dll
