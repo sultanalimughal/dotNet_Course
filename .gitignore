@@ -1,0 +1,13 @@
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+*.sln
+*.sw?
+.env
+
+# User-specific files
+/.vscode
+rm -rf ./.git  
+
+.evn
+
