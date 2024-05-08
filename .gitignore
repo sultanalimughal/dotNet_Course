@@ -6,7 +6,7 @@
 .env
 
 # User-specific files
-/.vscode
+.vscode/
 rm -rf ./.git  
 
 .evn
