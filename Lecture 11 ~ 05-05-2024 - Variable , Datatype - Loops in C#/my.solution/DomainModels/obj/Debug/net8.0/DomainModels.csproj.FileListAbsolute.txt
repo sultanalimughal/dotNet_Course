@@ -1,0 +1,22 @@
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.deps.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.AssemblyInfoInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.AssemblyInfo.cs
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.csproj.CoreCompileInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\refint\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\ref\DomainModels.dll
+C:\Users\Sultan Ali\Downloads\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.deps.json
+C:\Users\Sultan Ali\Downloads\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.dll
+C:\Users\Sultan Ali\Downloads\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.pdb
+C:\Users\Sultan Ali\Downloads\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sultan Ali\Downloads\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.AssemblyInfoInputs.cache
+C:\Users\Sultan Ali\Downloads\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.AssemblyInfo.cs
+C:\Users\Sultan Ali\Downloads\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\Sultan Ali\Downloads\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.dll
+C:\Users\Sultan Ali\Downloads\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\refint\DomainModels.dll
+C:\Users\Sultan Ali\Downloads\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.pdb
+C:\Users\Sultan Ali\Downloads\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\ref\DomainModels.dll
