@@ -49,7 +49,7 @@ Console.WriteLine("Hello, World!");
 
 Console.WriteLine($"min value of int is {int.MinValue} , max value of in is {int.MaxValue}");
 
-int gpa = 2147483647;
+int gpa = 1147483647;
 
 int gpa2 = 2147483647;
 

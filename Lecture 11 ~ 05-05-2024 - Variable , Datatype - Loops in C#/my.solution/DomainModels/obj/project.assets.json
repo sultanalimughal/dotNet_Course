@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sultan Ali\\Downloads\\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\\my.solution\\DomainModels\\DomainModels.csproj",
+      "projectUniqueName": "D:\\dotNet_Course\\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\\my.solution\\DomainModels\\DomainModels.csproj",
       "projectName": "DomainModels",
-      "projectPath": "C:\\Users\\Sultan Ali\\Downloads\\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\\my.solution\\DomainModels\\DomainModels.csproj",
+      "projectPath": "D:\\dotNet_Course\\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\\my.solution\\DomainModels\\DomainModels.csproj",
       "packagesPath": "C:\\Users\\Sultan Ali\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sultan Ali\\Downloads\\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\\my.solution\\DomainModels\\obj\\",
+      "outputPath": "D:\\dotNet_Course\\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\\my.solution\\DomainModels\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sultan Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -3,27 +3,25 @@
 
 
 // Variable in C# (Two Part)
-		// 1) Decleration 2) initialization 
+// 1) Decleration 2) initialization 
 
 
 
 //string myFriendName;
-
 //myFriendName = "Mark";
 
 //myFriendName = null;
-
 //Console.WriteLine(myFriendName);
 
 
-	Console.WriteLine("enter your friend name");
+Console.WriteLine("enter your friend name");
 
 	string myFriendName = Console.ReadLine();
 
 
 	Console.WriteLine("enter friend location");
 
-	string country = Console.ReadLine(); 
+	string? country = Console.ReadLine(); 
 
 //myFriendName = "Mark";
 

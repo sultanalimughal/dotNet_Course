@@ -3,9 +3,9 @@ using Microsoft.VisualBasic;
 
 
 
-// Course 
-// - Camel Case => durationInMonth
-// -Pascal Case => DurationInMonth
+//Course
+//- Camel Case => durationInMonth
+//- Pascal Case => DurationInMonth
 
 
 Course DotNetCourse = new Course
@@ -36,7 +36,7 @@ for (int i = 0; i <= 10; i++)
 {
     Console.WriteLine($"---------------------displaying for {i + 1} time -------------------------- ");
 
-	Console.WriteLine(@"Cours id :{DotNetCourse.CourseId} , Title: {DotNetCourse.Title} , Course Duration: {DotNetCourse.DurationInMonths} Months,
+	Console.WriteLine($@"Cours id :{DotNetCourse.CourseId} , Title: {DotNetCourse.Title} , Course Duration: {DotNetCourse.DurationInMonths} Months,
                Description : {DotNetCourse.Description} , Launch Date :{DotNetCourse.LaunchDate}");
 }
 
