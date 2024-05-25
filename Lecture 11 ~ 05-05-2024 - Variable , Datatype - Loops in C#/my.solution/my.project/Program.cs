@@ -40,7 +40,6 @@ for (int i = 0; i <= 10; i++)
                Description : {DotNetCourse.Description} , Launch Date :{DotNetCourse.LaunchDate}");
 }
 
-
 bool isTerminate = true;
 
 while (isTerminate == false)

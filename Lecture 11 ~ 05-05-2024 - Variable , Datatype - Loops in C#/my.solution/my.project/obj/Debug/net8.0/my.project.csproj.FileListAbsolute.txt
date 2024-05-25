@@ -62,3 +62,22 @@ C:\Users\Sultan Ali\Downloads\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#
 C:\Users\Sultan Ali\Downloads\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.pdb
 C:\Users\Sultan Ali\Downloads\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.genruntimeconfig.cache
 C:\Users\Sultan Ali\Downloads\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\ref\my.project.dll
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\bin\Debug\net8.0\my.project.exe
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\bin\Debug\net8.0\my.project.deps.json
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\bin\Debug\net8.0\my.project.runtimeconfig.json
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\bin\Debug\net8.0\my.project.dll
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\bin\Debug\net8.0\my.project.pdb
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\bin\Debug\net8.0\DomainModels.dll
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\bin\Debug\net8.0\DomainModels.pdb
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.AssemblyReference.cache
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\obj\Debug\net8.0\my.project.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\obj\Debug\net8.0\my.project.AssemblyInfoInputs.cache
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\obj\Debug\net8.0\my.project.AssemblyInfo.cs
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.CoreCompileInputs.cache
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\obj\Debug\net8.0\my.project.sourcelink.json
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.Up2Date
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\obj\Debug\net8.0\my.project.dll
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\obj\Debug\net8.0\refint\my.project.dll
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\obj\Debug\net8.0\my.project.pdb
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\obj\Debug\net8.0\my.project.genruntimeconfig.cache
+D:\dotNet_Course\Lecture 11 ~ 05-05-2024 - Variable , Datatype - Loops in C#\my.solution\my.project\obj\Debug\net8.0\ref\my.project.dll
