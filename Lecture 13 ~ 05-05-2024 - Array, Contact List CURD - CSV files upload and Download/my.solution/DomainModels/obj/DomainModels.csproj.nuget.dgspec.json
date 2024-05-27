@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\dotNet_Course\\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\\my.solution\\DomainModels\\DomainModels.csproj": {}
+    "D:\\dotNet_Course\\Lecture 13 ~ 05-05-2024 - Array, Contact List CURD - CSV files upload and Download\\my.solution\\DomainModels\\DomainModels.csproj": {}
   },
   "projects": {
-    "D:\\dotNet_Course\\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\\my.solution\\DomainModels\\DomainModels.csproj": {
+    "D:\\dotNet_Course\\Lecture 13 ~ 05-05-2024 - Array, Contact List CURD - CSV files upload and Download\\my.solution\\DomainModels\\DomainModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\dotNet_Course\\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\\my.solution\\DomainModels\\DomainModels.csproj",
+        "projectUniqueName": "D:\\dotNet_Course\\Lecture 13 ~ 05-05-2024 - Array, Contact List CURD - CSV files upload and Download\\my.solution\\DomainModels\\DomainModels.csproj",
         "projectName": "DomainModels",
-        "projectPath": "D:\\dotNet_Course\\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\\my.solution\\DomainModels\\DomainModels.csproj",
+        "projectPath": "D:\\dotNet_Course\\Lecture 13 ~ 05-05-2024 - Array, Contact List CURD - CSV files upload and Download\\my.solution\\DomainModels\\DomainModels.csproj",
         "packagesPath": "C:\\Users\\Sultan Ali\\.nuget\\packages\\",
-        "outputPath": "D:\\dotNet_Course\\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\\my.solution\\DomainModels\\obj\\",
+        "outputPath": "D:\\dotNet_Course\\Lecture 13 ~ 05-05-2024 - Array, Contact List CURD - CSV files upload and Download\\my.solution\\DomainModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sultan Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",

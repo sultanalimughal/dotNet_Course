@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vXLqgFrZpDJdPHKEHb+pAICkuv0IAFG+s3u54O0lQXOaECDzrJs4QuxMoUEO6ZnpwQhPkVf9e1On6ZEc//46kw==",
+  "dgSpecHash": "8eOqJ5V7FoM3vrxdKDh2p1W67wXi9ZJvedWk0Y6S4pB+GRdsw7TV1B6wrQ6uGw+UtFJFxy6tRxsVEf4rZS4jgQ==",
   "success": true,
-  "projectFilePath": "D:\\dotNet_Course\\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\\my.solution\\My.Infrastructure\\My.Infrastructure.csproj",
+  "projectFilePath": "D:\\dotNet_Course\\Lecture 13 ~ 05-05-2024 - Array, Contact List CURD - CSV files upload and Download\\my.solution\\My.Infrastructure\\My.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,0 +1,124 @@
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.exe
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.deps.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.runtimeconfig.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.AssemblyInfoInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.AssemblyInfo.cs
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.CoreCompileInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\refint\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.genruntimeconfig.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 9 ~ 28-04-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\ref\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 10 ~ 04-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.exe
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 10 ~ 04-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.deps.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 10 ~ 04-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.runtimeconfig.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 10 ~ 04-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 10 ~ 04-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 10 ~ 04-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 10 ~ 04-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.AssemblyInfoInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 10 ~ 04-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.AssemblyInfo.cs
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 10 ~ 04-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.CoreCompileInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 10 ~ 04-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 10 ~ 04-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\refint\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 10 ~ 04-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 10 ~ 04-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.genruntimeconfig.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 10 ~ 04-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\ref\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.exe
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.deps.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.runtimeconfig.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.AssemblyInfoInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.AssemblyInfo.cs
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.CoreCompileInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\refint\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.genruntimeconfig.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\ref\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.AssemblyReference.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.Up2Date
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.exe
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.deps.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.runtimeconfig.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.AssemblyReference.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.AssemblyInfoInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.AssemblyInfo.cs
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.CoreCompileInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.Up2Date
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\refint\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.genruntimeconfig.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\ref\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\bin\Debug\net8.0\my.project.exe
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\bin\Debug\net8.0\my.project.deps.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\bin\Debug\net8.0\my.project.runtimeconfig.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\bin\Debug\net8.0\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\bin\Debug\net8.0\my.project.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\bin\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\bin\Debug\net8.0\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\bin\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\bin\Debug\net8.0\My.Infrastructure.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.AssemblyReference.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\obj\Debug\net8.0\my.project.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\obj\Debug\net8.0\my.project.AssemblyInfoInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\obj\Debug\net8.0\my.project.AssemblyInfo.cs
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.CoreCompileInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.Up2Date
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\obj\Debug\net8.0\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\obj\Debug\net8.0\refint\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\obj\Debug\net8.0\my.project.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\obj\Debug\net8.0\my.project.genruntimeconfig.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\my.project\obj\Debug\net8.0\ref\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.exe
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.deps.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.runtimeconfig.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\my.project.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\bin\Debug\net8.0\My.Infrastructure.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.AssemblyReference.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.AssemblyInfoInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.AssemblyInfo.cs
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.CoreCompileInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.Up2Date
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\refint\my.project.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\my.project.genruntimeconfig.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\my.project\obj\Debug\net8.0\ref\my.project.dll
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\bin\Debug\net8.0\my.project.exe
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\bin\Debug\net8.0\my.project.deps.json
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\bin\Debug\net8.0\my.project.runtimeconfig.json
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\bin\Debug\net8.0\my.project.dll
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\bin\Debug\net8.0\my.project.pdb
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\bin\Debug\net8.0\DomainModels.dll
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\bin\Debug\net8.0\My.Infrastructure.dll
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\bin\Debug\net8.0\DomainModels.pdb
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\bin\Debug\net8.0\My.Infrastructure.pdb
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.AssemblyReference.cache
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\obj\Debug\net8.0\my.project.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\obj\Debug\net8.0\my.project.AssemblyInfoInputs.cache
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\obj\Debug\net8.0\my.project.AssemblyInfo.cs
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.CoreCompileInputs.cache
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\obj\Debug\net8.0\my.project.csproj.Up2Date
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\obj\Debug\net8.0\my.project.dll
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\obj\Debug\net8.0\refint\my.project.dll
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\obj\Debug\net8.0\my.project.pdb
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\obj\Debug\net8.0\my.project.genruntimeconfig.cache
+D:\dotNet_upload\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\my.solution\my.project\obj\Debug\net8.0\ref\my.project.dll

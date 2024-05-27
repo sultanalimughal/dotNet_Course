@@ -198,8 +198,10 @@ namespace My.Infrastructure
 							var contact = _contacts[j];
 							var data = $"{contact.Name},{contact.Email},{contact.Address},{contact.Phone}";
 							writer.WriteLine(data);
+
+							Console.WriteLine("CSV file created successfully.");
 						}
-						Console.WriteLine("CSV file created successfully.");
+						
 					}
 					
 				}
@@ -207,7 +209,7 @@ namespace My.Infrastructure
 			}
 			else
 			{
-				Console.WriteLine("no Contact found");
+				Console.WriteLine("Empty Array found");
 			}
 		}
 		public void UploadContact()

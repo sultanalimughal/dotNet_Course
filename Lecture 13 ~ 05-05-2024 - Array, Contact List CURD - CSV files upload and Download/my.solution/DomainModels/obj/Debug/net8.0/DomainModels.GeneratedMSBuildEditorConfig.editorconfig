@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DomainModels
-build_property.ProjectDir = D:\dotNet_Course\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\DomainModels\
+build_property.ProjectDir = D:\dotNet_Course\Lecture 13 ~ 05-05-2024 - Array, Contact List CURD - CSV files upload and Download\my.solution\DomainModels\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

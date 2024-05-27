@@ -36,10 +36,10 @@ do
             contactRepository.UpdateContact();
             SendNotification("abc786", "Updated Contact List!");
             break;           
-        case "5":
-            contactRepository.RemoveContact();
-            SendNotification("abc786", "Remove Contact List!");
-            break;        
+        //case "5":
+        //    contactRepository.RemoveContact();
+        //    SendNotification("abc786", "Remove Contact List!");
+        //    break;        
         case "6":
             contactRepository.DownloadContact();
             SendNotification("abc786", "Download Contact List!");
