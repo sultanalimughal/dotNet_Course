@@ -18,7 +18,7 @@ namespace DomainModels
         //    Email = _email;
         //}
         //public Contact(string _email , string _name)
-        //    : this(_email)
+        //    : this(_email)r74
         //{
         //    Name = _name;
         //}

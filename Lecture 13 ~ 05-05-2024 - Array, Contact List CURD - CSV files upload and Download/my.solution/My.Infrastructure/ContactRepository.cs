@@ -182,30 +182,24 @@ namespace My.Infrastructure
 		{
 			if (_arrayIndex > 0)
 			{
-				for (int i = 0; i < _arrayIndex; i++)
+				//File Path 
+				string filePath = @$"C:\Users\Sultan Ali\Downloads\array_data.csv";
+
+				// Create or overwrite the file
+				using (StreamWriter writer = new StreamWriter(filePath))
 				{
-					string filePath = @"C:\Users\Sultan Ali\Downloads\array_data.csv";
+					// Write the CSV headers
+					writer.WriteLine("Name,Email,Address,Phone");
 
-					// Create or overwrite the file
-					using (StreamWriter writer = new StreamWriter(filePath))
+					// Write each contact's data in the CSV format
+					for (int j = 0; j < _arrayIndex; j++)
 					{
-						// Write the CSV headers
-						writer.WriteLine("Name,Email,Address,Phone");
-
-						// Write each contact's data in the CSV format
-						for (int j = 0; j < _arrayIndex; j++)
-						{
-							var contact = _contacts[j];
-							var data = $"{contact.Name},{contact.Email},{contact.Address},{contact.Phone}";
-							writer.WriteLine(data);
-
-							Console.WriteLine("CSV file created successfully.");
-						}
-						
+						var contact = _contacts[j];
+						var data = $"{contact.Name},{contact.Email},{contact.Address},{contact.Phone}";
+						writer.WriteLine(data);
 					}
-					
+					Console.WriteLine("CSV file created successfully.");
 				}
-
 			}
 			else
 			{

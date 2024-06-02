@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Qa6zjQyc1fD5OCLBVAbyLLE8uqhmEtsBFLcdRfOJcOdusHo6Zp0VWbrVlX9ieV52NXjo+TxzuXwTCZbfd3NZxQ==",
+  "dgSpecHash": "i1u3TVPzd3Wstpw6+u7PwYKlLC1RVbEFUZtwta9yngq2ODglkj1ZKUEvotPIWXsDqB1ePQUJnYeyZLWksXVFUg==",
   "success": true,
-  "projectFilePath": "D:\\dotNet_upload\\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\\my.solution\\DomainModels\\DomainModels.csproj",
+  "projectFilePath": "D:\\dotNet_Course\\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\\my.solution\\DomainModels\\DomainModels.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

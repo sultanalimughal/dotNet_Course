@@ -69,7 +69,7 @@ namespace My.Infrastructure
 			}
 			else
 			{
-				Console.WriteLine("no Contact found");
+				Console.WriteLine("No Contact found");
 			}
 		}
 		public void ContactSearch()

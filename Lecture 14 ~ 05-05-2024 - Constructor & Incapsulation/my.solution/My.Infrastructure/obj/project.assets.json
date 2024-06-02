@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dotNet_upload\\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\\my.solution\\My.Infrastructure\\My.Infrastructure.csproj",
+      "projectUniqueName": "D:\\dotNet_Course\\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\\my.solution\\My.Infrastructure\\My.Infrastructure.csproj",
       "projectName": "My.Infrastructure",
-      "projectPath": "D:\\dotNet_upload\\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\\my.solution\\My.Infrastructure\\My.Infrastructure.csproj",
+      "projectPath": "D:\\dotNet_Course\\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\\my.solution\\My.Infrastructure\\My.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Sultan Ali\\.nuget\\packages\\",
-      "outputPath": "D:\\dotNet_upload\\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\\my.solution\\My.Infrastructure\\obj\\",
+      "outputPath": "D:\\dotNet_Course\\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\\my.solution\\My.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sultan Ali\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\dotNet_upload\\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\\my.solution\\DomainModels\\DomainModels.csproj": {
-              "projectPath": "D:\\dotNet_upload\\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\\my.solution\\DomainModels\\DomainModels.csproj"
+            "D:\\dotNet_Course\\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\\my.solution\\DomainModels\\DomainModels.csproj": {
+              "projectPath": "D:\\dotNet_Course\\Lecture 14 ~ 05-05-2024 - Constructor & Incapsulation\\my.solution\\DomainModels\\DomainModels.csproj"
             }
           }
         }

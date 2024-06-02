@@ -1,0 +1,60 @@
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\My.Infrastructure\bin\Debug\net8.0\My.Infrastructure.deps.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\My.Infrastructure\bin\Debug\net8.0\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\My.Infrastructure\bin\Debug\net8.0\My.Infrastructure.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\My.Infrastructure\bin\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\My.Infrastructure\bin\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.csproj.AssemblyReference.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.AssemblyInfoInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.AssemblyInfo.cs
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.csproj.CoreCompileInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infra.776B8CB4.Up2Date
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\refint\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\ref\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\My.Infrastructure\bin\Debug\net8.0\My.Infrastructure.deps.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\My.Infrastructure\bin\Debug\net8.0\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\My.Infrastructure\bin\Debug\net8.0\My.Infrastructure.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\My.Infrastructure\bin\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\My.Infrastructure\bin\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.csproj.AssemblyReference.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.AssemblyInfoInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.AssemblyInfo.cs
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.csproj.CoreCompileInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infra.776B8CB4.Up2Date
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\refint\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\ref\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\My.Infrastructure\bin\Debug\net8.0\My.Infrastructure.deps.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\My.Infrastructure\bin\Debug\net8.0\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\My.Infrastructure\bin\Debug\net8.0\My.Infrastructure.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\My.Infrastructure\bin\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\My.Infrastructure\bin\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.csproj.AssemblyReference.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.AssemblyInfoInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.AssemblyInfo.cs
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.csproj.CoreCompileInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infra.776B8CB4.Up2Date
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\refint\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\My.Infrastructure\obj\Debug\net8.0\ref\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 16 ~ 05-05-2024 - Abstruction in C# - Copy\my.solution\My.Infrastructure\bin\Debug\net8.0\My.Infrastructure.deps.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 16 ~ 05-05-2024 - Abstruction in C# - Copy\my.solution\My.Infrastructure\bin\Debug\net8.0\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 16 ~ 05-05-2024 - Abstruction in C# - Copy\my.solution\My.Infrastructure\bin\Debug\net8.0\My.Infrastructure.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 16 ~ 05-05-2024 - Abstruction in C# - Copy\my.solution\My.Infrastructure\bin\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 16 ~ 05-05-2024 - Abstruction in C# - Copy\my.solution\My.Infrastructure\bin\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 16 ~ 05-05-2024 - Abstruction in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.csproj.AssemblyReference.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 16 ~ 05-05-2024 - Abstruction in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 16 ~ 05-05-2024 - Abstruction in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.AssemblyInfoInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 16 ~ 05-05-2024 - Abstruction in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.AssemblyInfo.cs
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 16 ~ 05-05-2024 - Abstruction in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.csproj.CoreCompileInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 16 ~ 05-05-2024 - Abstruction in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infra.776B8CB4.Up2Date
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 16 ~ 05-05-2024 - Abstruction in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 16 ~ 05-05-2024 - Abstruction in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\refint\My.Infrastructure.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 16 ~ 05-05-2024 - Abstruction in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\My.Infrastructure.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 16 ~ 05-05-2024 - Abstruction in C# - Copy\my.solution\My.Infrastructure\obj\Debug\net8.0\ref\My.Infrastructure.dll
