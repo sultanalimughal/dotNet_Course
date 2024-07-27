@@ -2,6 +2,8 @@
 # User-specific folders 
 .vscode
 .vs
+obj
+bin
 
 # User-specific files 
 .evn
