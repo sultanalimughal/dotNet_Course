@@ -1,0 +1,51 @@
+﻿@using my.project.ViewModels
+@model IEnumerable<Blog>
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    bool isDeleteRoute = (bool)ViewData["isDeleteRoute"];
+}
+<a asp-controller="Blog" asp-action="Create">Create Blog</a>
+@if (isDeleteRoute)
+{
+    <div class="alert alert-danger" role="alert">
+        Blog deleted
+    </div>
+}
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title</th>
+            <th scope="col">Description</th>
+            <th scope="col">Image</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+      @if(Model != null && Model.Count() >0)
+        {
+            var index = 1;
+            foreach(var item in Model)
+            {
+                <tr>
+                    <th scope="row">@index</th>
+                    <td>@item.Title</td>
+                    <td>@item.Description</td>
+                    <td>
+                        <img  width="100" height="100" src="~/@item.ImgName" />
+                    </td>
+                    <td>
+                        @{
+                            int rowIndex = index - 1;
+                        }
+                        <a class="btn btn-success btn-sm" asp-controller="Blog" asp-action="EditBlog" asp-area="" asp-route-blogIndex="@rowIndex">Edit</a>
+                        <a class="btn btn-danger btn-sm" asp-controller="Blog" asp-action="DeleteBlog" asp-area="" asp-route-blogIndex="@rowIndex">Delete</a>
+                    </td>
+                </tr>
+                index++;
+            }
+        }
+    </tbody>
+</table>
