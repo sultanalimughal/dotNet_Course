@@ -1,7 +1,9 @@
 
 # User-specific folders 
+.git/
 .vscode/
 .vs/
+
 obj/
 bin/
 
