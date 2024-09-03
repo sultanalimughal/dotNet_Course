@@ -1,11 +1,18 @@
 
 # User-specific folders 
+<<<<<<< HEAD
 .git/
 .vscode/
 .vs/
 
 obj/
 bin/
+=======
+.vscode
+.vs
+obj
+bin
+>>>>>>> parent of f937a74 (Remove bin & obj folders)
 
 # User-specific files 
-.env
+.evn

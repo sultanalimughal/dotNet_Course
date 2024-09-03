@@ -1,0 +1,55 @@
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.deps.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.AssemblyInfoInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.AssemblyInfo.cs
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.csproj.CoreCompileInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\refint\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 11 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\ref\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.deps.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.AssemblyInfoInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.AssemblyInfo.cs
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.csproj.CoreCompileInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\refint\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 12 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\ref\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.deps.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.AssemblyInfoInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.AssemblyInfo.cs
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.csproj.CoreCompileInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\DomainModels\obj\Debug\net8.0\refint\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 13 ~ 05-05-2024 - Variable , Datatype in C# - Copy\my.solution\DomainModels\obj\Debug\net8.0\ref\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.deps.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.AssemblyInfoInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.AssemblyInfo.cs
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.csproj.CoreCompileInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\refint\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 14 ~ 05-05-2024 - Variable , Datatype in C#\my.solution\DomainModels\obj\Debug\net8.0\ref\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.deps.json
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\DomainModels\bin\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.AssemblyInfoInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.AssemblyInfo.cs
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.csproj.CoreCompileInputs.cache
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\DomainModels\obj\Debug\net8.0\refint\DomainModels.dll
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\DomainModels\obj\Debug\net8.0\DomainModels.pdb
+D:\EwxLectures\DotNetBatches\EwxDotNet413\Lecture 15 ~ 05-05-2024 - Inheritance in C#\my.solution\DomainModels\obj\Debug\net8.0\ref\DomainModels.dll
