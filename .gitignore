@@ -7,7 +7,5 @@
 obj/
 bin/
 
-echo bin/
-echo obj/
 # User-specific files 
 .evn
